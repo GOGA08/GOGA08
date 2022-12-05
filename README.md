@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GOGA08
-- 👀 I’m interested in python and other languages
+- 👀 I’m interested Full Stack Web Development
 - 🌱 I’m currently learning python,php,js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me text on mail
